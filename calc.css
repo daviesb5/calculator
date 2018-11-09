@@ -1,3 +1,34 @@
 body {
   background-color: rgb(101, 194, 155);
+  font-family: Tahoma, "Lucida Sans Unicode", "Trebuchet MS",  Arial;
 }
+/*
+=======================
+MAIN DIVs
+=======================
+*/
+.basicScreen {
+  /*rgb (252, 252, 252)*/
+  background-color: #fcfcfc;
+  color: gray;
+}
+.operations {
+  /*rgb (57, 183, 209)*/
+  background-color:	#39b7d1;
+  color: #fcfcfc;
+}
+.numPad {
+  /*rgb (57, 53, 53)*/
+  background-color:	#393535;
+  color: gray;
+}
+.powerDot {
+  /*rgb (230, 247, 65)*/
+  background-color:	#e6f741;
+  color: #393535;
+}
+/*
+=======================
+KEYS
+=======================
+*/
